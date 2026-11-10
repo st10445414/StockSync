@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.stocksync.app-mergeDebugResources-84:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dives\\.gradle\\caches\\transforms-3\\a2bb56cdb5d7b3a143a4943b207be781\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dives\\.gradle\\caches\\transforms-3\\2e7b6d7509bb7c57fa8d28d3830b0fe7\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

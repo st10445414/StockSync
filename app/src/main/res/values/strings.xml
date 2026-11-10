@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StockSync</string>
+
+    <!-- Login -->
+    <string name="login_tagline">Track your stock. Grow your business.</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="login_failed">Login failed. Please try again.</string>
+
+    <!-- Biometric -->
+    <string name="biometric_title">Authentication Required</string>
+    <string name="biometric_subtitle">Place your finger on the sensor to unlock StockSync</string>
+    <string name="use_biometric">Use Biometric</string>
+    <string name="use_pin_instead">Use device PIN instead</string>
+    <string name="biometric_not_available">Biometric authentication is not available on this device.</string>
+    <string name="skip_to_app">Skip to App</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_products">Products</string>
+    <string name="nav_sell">Sell</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">StockSync</string>
+    <string name="today_sales">Today\'s Sales</string>
+    <string name="transactions">transactions</string>
+    <string name="low_stock">Low Stock</string>
+    <string name="products_total">Products</string>
+    <string name="pending">Pending</string>
+    <string name="top_sellers">Top Sellers Today</string>
+    <string name="items">items</string>
+    <string name="total">total</string>
+
+    <!-- Products -->
+    <string name="products_title">Products</string>
+    <string name="filter_all">All</string>
+    <string name="sort_name">Name</string>
+    <string name="in_stock">in stock</string>
+    <string name="add_product">Add Product</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="product_name">Name</string>
+    <string name="product_price">Price</string>
+    <string name="product_quantity">Initial Qty</string>
+    <string name="product_category">Category</string>
+    <string name="product_barcode">Barcode</string>
+    <string name="scan">Scan</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="stock_in">+ Stock In</string>
+    <string name="log_sale">Log Sale</string>
+    <string name="current_stock">Current Stock</string>
+    <string name="low_stock_threshold">Low-Stock Threshold</string>
+    <string name="price_label">Price</string>
+    <string name="barcode_label">Barcode</string>
+    <string name="category_label">Category</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="search">Search</string>
+
+    <!-- Sell -->
+    <string name="sell_title">Sell</string>
+    <string name="sale_logged">Sale logged</string>
+    <string name="out_of_stock">Out of stock</string>
+    <string name="all_categories">All Categories</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="cash">Cash</string>
+    <string name="card">Card</string>
+    <string name="other">Other</string>
+    <string name="quantity">Quantity</string>
+    <string name="confirm_sale">Confirm Sale</string>
+    <string name="confirm_stock_in">Confirm Stock In</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_general">General</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_currency">Currency</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_low_stock_alerts">Low-Stock Alerts</string>
+    <string name="settings_daily_summary">Daily Sales Summary</string>
+    <string name="settings_sync_confirmations">Sync Confirmations</string>
+    <string name="settings_stock">Stock</string>
+    <string name="settings_low_stock_threshold">Low-Stock Threshold</string>
+    <string name="settings_security">Security</string>
+    <string name="settings_biometric_lock">Biometric Lock</string>
+    <string name="settings_account">Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+
+    <!-- Sync -->
+    <string name="sync_status">Sync Status</string>
+    <string name="all_synced">All Changes Synced</string>
+    <string name="last_sync">Last sync</string>
+    <string name="pending_changes">Pending Changes</string>
+    <string name="no_pending">No pending changes. All data is up to date.</string>
+    <string name="sync_now">Sync Now</string>
+    <string name="synced">Synced</string>
+    <string name="syncing">Syncing</string>
+    <string name="sync_pending">Pending</string>
+    <string name="sync_failed">Sync Failed</string>
+
+    <!-- Validation -->
+    <string name="error_name_required">Product name is required</string>
+    <string name="error_price_required">Price is required</string>
+    <string name="error_price_positive">Price must be >= 0</string>
+    <string name="error_quantity_required">Quantity is required</string>
+    <string name="error_quantity_positive">Quantity must be >= 0</string>
+    <string name="error_invalid_input">Invalid input. Please check your values.</string>
+    <string name="error_no_connection">No internet connection. Changes saved locally.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+
+    <!-- Accessibility -->
+    <string name="app_logo">StockSync logo</string>
+    <string name="sso_description">Single Sign-On (SSO) via Google Credential Manager</string>
+    <string name="no_sales_today">No sales today yet</string>
+    <string name="synced_status">All changes synced</string>
+    <string name="low_stock_warning">Low stock warning</string>
+    <string name="out_of_stock_warning">Out of stock warning</string>
+    <string name="product_photo">Product photo</string>
+    <string name="store_location_button">View store location</string>
+    <string name="sync_status_button">View sync status</string>
+    <string name="low_stock_tile">View low stock products</string>
+    <string name="price_format">R %1$.2f</string>
+
+    <!-- Misc -->
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+
+    <!-- Barcode Scanner -->
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="scan_hint">Point the camera at a barcode</string>
+    <string name="camera_permission_required">Camera permission is required to scan barcodes.</string>
+    <string name="grant_permission">Grant Permission</string>
+
+    <!-- Store Location -->
+    <string name="store_location">Store Location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="fetching_location">Fetching location…</string>
+    <string name="location_permission_required">Location permission is required to show your store location.</string>
+    <string name="map_placeholder">Map View</string>
+    <string name="refresh_location">Refresh Location</string>
+    <string name="retry">Retry</string>
+</resources>

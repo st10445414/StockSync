@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.stocksync.app-merged_res-86:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.stocksync.app-main-88:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.stocksync.app-main-88:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.stocksync.app-main-88:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.stocksync.app-main-88:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.stocksync.app-main-88:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.stocksync.app-main-88:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "com.stocksync.app-main-88:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.stocksync.app-main-88:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.stocksync.app-main-88:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.stocksync.app-main-88:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.stocksync.app-main-88:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.stocksync.app-main-88:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/xml_backup_rules.xml.flat",
+        "source": "com.stocksync.app-main-88:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.stocksync.app-main-88:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.stocksync.app-merged_res-86:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.stocksync.app-main-88:/mipmap-xxhdpi/ic_launcher_round.xml"
+    }
+]

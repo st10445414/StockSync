@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StockSync</string>
+
+    <!-- Login -->
+    <string name="login_tagline">Phatha izitokhwe zakho. Khulisa ibhizinisi lakho.</string>
+    <string name="continue_with_google">Qhuba nge-Google</string>
+    <string name="login_failed">Ukungena kuhlulekile. Zama futhi.</string>
+
+    <!-- Biometric -->
+    <string name="biometric_title">Kudingeka ukuqinisekiswa</string>
+    <string name="biometric_subtitle">Beka umunwe wakho kusensa ukuvula i-StockSync</string>
+    <string name="use_biometric">Sebenzisa i-Biometric</string>
+    <string name="use_pin_instead">Sebenzisa i-PIN yedivayisi</string>
+    <string name="biometric_not_available">Ukuqinisekiswa nge-biometric akutholakali kule divayisi.</string>
+    <string name="skip_to_app">Yeqa eya kuhlelo</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Ekhaya</string>
+    <string name="nav_products">Imikhiqizo</string>
+    <string name="nav_sell">Thengisa</string>
+    <string name="nav_settings">Izilungiselelo</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">StockSync</string>
+    <string name="today_sales">Izithengiso zanamuhla</string>
+    <string name="transactions">izinhlangano</string>
+    <string name="low_stock">Isitokhwe esiphansi</string>
+    <string name="products_total">Imikhiqizo</string>
+    <string name="pending">Kulindile</string>
+    <string name="top_sellers">Abathengi abahamba phambili namuhla</string>
+    <string name="items">izinto</string>
+    <string name="total">konke</string>
+
+    <!-- Products -->
+    <string name="products_title">Imikhiqizo</string>
+    <string name="filter_all">Konke</string>
+    <string name="sort_name">Igama</string>
+    <string name="in_stock">esisitokhwini</string>
+    <string name="add_product">Engeza umkhiqizo</string>
+    <string name="edit_product">Hlela umkhiqizo</string>
+    <string name="product_name">Igama</string>
+    <string name="product_price">Inani</string>
+    <string name="product_quantity">Inani ekuqaleni</string>
+    <string name="product_category">Isigaba</string>
+    <string name="product_barcode">I-barcode</string>
+    <string name="scan">Skeni</string>
+    <string name="save">Gcina</string>
+    <string name="delete">Susa</string>
+    <string name="edit">Hlela</string>
+    <string name="stock_in">+ Faka isitokhwe</string>
+    <string name="log_sale">Bhala ukuthengisa</string>
+    <string name="current_stock">Isitokhwe samanje</string>
+    <string name="low_stock_threshold">Inani elinganiselwe isitokhwe</string>
+    <string name="price_label">Inani</string>
+    <string name="barcode_label">I-barcode</string>
+    <string name="category_label">Isigaba</string>
+    <string name="add_photo">Engeza isithombe</string>
+    <string name="search">Sesha</string>
+
+    <!-- Sell -->
+    <string name="sell_title">Thengisa</string>
+    <string name="sale_logged">Ukuthengisa kubhaliwe</string>
+    <string name="out_of_stock">Asekho esitokhwini</string>
+    <string name="all_categories">Zonke izigaba</string>
+    <string name="payment_method">Indlela yokukhokha</string>
+    <string name="cash">I-cash</string>
+    <string name="card">Ikhadi</string>
+    <string name="other">Okunye</string>
+    <string name="quantity">Inani</string>
+    <string name="confirm_sale">Qinisekisa ukuthengisa</string>
+    <string name="confirm_stock_in">Qinisekisa ukufaka isitokhwe</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Izilungiselelo</string>
+    <string name="settings_general">Okuvamile</string>
+    <string name="settings_language">Ulimi</string>
+    <string name="settings_currency">Imali</string>
+    <string name="settings_notifications">Izaziso</string>
+    <string name="settings_low_stock_alerts">Izexwayiso zesitokhwe esiphansi</string>
+    <string name="settings_daily_summary">Ifinyelelo yansuku zonke</string>
+    <string name="settings_sync_confirmations">Izinkomba zokuvumelanisa</string>
+    <string name="settings_stock">Isitokhwe</string>
+    <string name="settings_low_stock_threshold">Inani lokuxwayisa isitokhwe esiphansi</string>
+    <string name="settings_security">Ukhuseleko</string>
+    <string name="settings_biometric_lock">Ukuvala nge-Biometric</string>
+    <string name="settings_account">I-akhawunti</string>
+    <string name="sign_out">Phuma</string>
+    <string name="on">VULIWE</string>
+    <string name="off">VALIWE</string>
+
+    <!-- Sync -->
+    <string name="sync_status">Isimo sokuvumelanisa</string>
+    <string name="all_synced">Konke kuhambisana</string>
+    <string name="last_sync">Ukuvumelanisa kokugcina</string>
+    <string name="pending_changes">Okulindile</string>
+    <string name="no_pending">Awekho okulindile. Konke kuhambisana.</string>
+    <string name="sync_now">Vumelanisa manje</string>
+    <string name="synced">Kuhambisana</string>
+    <string name="syncing">Kuvumelaniswa</string>
+    <string name="sync_pending">Kulindile</string>
+    <string name="sync_failed">Ukuvumelanisa kuhlulekile</string>
+
+    <!-- Validation -->
+    <string name="error_name_required">Igama lomkhiqizo liyadingeka</string>
+    <string name="error_price_required">Inani liyadingeka</string>
+    <string name="error_price_positive">Inani kumele kube >= 0</string>
+    <string name="error_quantity_required">Inani liyadingeka</string>
+    <string name="error_quantity_positive">Inani kumele kube >= 0</string>
+    <string name="error_invalid_input">Okungenayo okungalungile. Hlola amanani akho.</string>
+    <string name="error_no_connection">Akukho internet. Okushintshile kugciniwe kule divayisi.</string>
+    <string name="error_generic">Kutholeke kabi. Zama futhi.</string>
+
+    <!-- Accessibility -->
+    <string name="app_logo">I-logo ye-StockSync</string>
+    <string name="sso_description">Ukungena okukodwa (SSO) nge-Google Credential Manager</string>
+    <string name="no_sales_today">Awekho izithengiso namuhla</string>
+    <string name="synced_status">Konke kuhambisana</string>
+    <string name="low_stock_warning">Isexwayiso sesitokhwe esiphansi</string>
+    <string name="out_of_stock_warning">Isexwayiso: asekho esitokhwini</string>
+    <string name="product_photo">Isithombe somkhiqizo</string>
+    <string name="store_location_button">Buka indawo yesitolo</string>
+    <string name="sync_status_button">Buka isimo sokuvumelanisa</string>
+    <string name="low_stock_tile">Buka imikhiqizo ngesitokhwe esiphansi</string>
+    <string name="price_format">R %1$.2f</string>
+
+    <!-- Misc -->
+    <string name="back">Emuva</string>
+    <string name="cancel">Khansela</string>
+    <string name="confirm">Qinisekisa</string>
+
+    <!-- Barcode Scanner -->
+    <string name="scan_barcode">Skena i-barcode</string>
+    <string name="scan_hint">Qondisa ikhamera kwi-barcode</string>
+    <string name="camera_permission_required">Kudingeka imvume yekhamera ukuze uskene i-barcode.</string>
+    <string name="grant_permission">Nikela Imvume</string>
+
+    <!-- Store Location -->
+    <string name="store_location">Indawo Yesitolo</string>
+    <string name="latitude">I-latitude</string>
+    <string name="longitude">I-longitude</string>
+    <string name="fetching_location">Ithola indawo…</string>
+    <string name="location_permission_required">Kudingeka imvume yendawo ukuze kubonakale indawo yesitolo sakho.</string>
+    <string name="map_placeholder">Ukubuka kwemephu</string>
+    <string name="refresh_location">Buyekeza Indawo</string>
+    <string name="retry">Zama futhi</string>
+</resources>

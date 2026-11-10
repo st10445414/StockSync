@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.StockSync" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/green_primary</item>
+        <item name="android:colorPrimaryDark">@color/green_dark</item>
+        <item name="android:colorAccent">@color/green_light</item>
+        <item name="android:statusBarColor">@color/green_primary</item>
+    </style>
+</resources>
